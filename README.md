@@ -1,2 +1,2 @@
 Using the code below I was able to use MNIST Digit images sourced from tensorflow.keras dataset to train an autoencoder model capable of compressing a 28x28 MNIST digit data with 784 floats with an exception of the y data (label). 
-The essence of this project is to train an autoencoder model with MNIST digits input to enable it reconstruct a clearer image with less noise and far better than the input image
+The essence of this project is to train an autoencoder model with MNIST digits input to enable it reconstruct a clearer image with less noise and far better than the input image.
